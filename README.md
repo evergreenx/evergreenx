@@ -14,11 +14,11 @@ Hi , i'm Evergreen :green_heart: a - creative front-end engineer with 3 years ex
 
 
 
-  <a href="https://twitter.com/idoevergreen">
+  <a href="https://www.linkedin.com/in/ido-dickson-evergreen-7b830017a/">
   <img align="left" alt="Evergreen Twitter" width="31px" src="https://github.com/evergreen2001/evergreen2001/blob/master/img/twitter.svg" />
   </a>
 
-  <a href="https://twitter.com/idoevergreen">
+  <a href="https://stackoverflow.com/users/10843587/ido-evergreen">
   <img align="left" alt="Evergreen stackoverflow" width="31px" src="https://github.com/evergreen2001/evergreen2001/blob/master/img/stackoverflow.svg" />
   </a>
 
