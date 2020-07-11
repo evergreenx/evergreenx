@@ -1,26 +1,26 @@
-### Hello Devs 👋
+### Hello Extraterrestre :wave:👋,
 
-
-Hi , i'm Evergreen a - creative front-end engineer with 3 years experience leveraging HTML and CSS in building Beautiful, intuitive and responsive website and also maximizing the use of JavaScript in developing highly scale-able, online compatible, fast and user Experience friendly application. 
+Hi , i'm Evergreen :green_heart: a - creative front-end engineer with 3 years experience leveraging HTML and CSS in building Beautiful, intuitive and responsive website and also maximizing the use of JavaScript in developing highly scale-able, online compatible, fast and user Experience friendly application. :raised_hands:
 
 
 - 😄 Pronouns: he/him...
 
 - 📫 How to reach me: ...
 
-<a href="https://twitter.com/idoevergreen">
+
+  <a href="https://twitter.com/idoevergreen">
   <img align="left" alt="Evergreen Twitter" width="31px" src="https://github.com/evergreen2001/evergreen2001/blob/master/img/linkedein.svg" />
-</a>
+  </a>
 
 
 
-<a href="https://twitter.com/idoevergreen">
+  <a href="https://twitter.com/idoevergreen">
   <img align="left" alt="Evergreen Twitter" width="31px" src="https://github.com/evergreen2001/evergreen2001/blob/master/img/twitter.svg" />
-</a>
+  </a>
 
-<a href="https://twitter.com/idoevergreen">
+  <a href="https://twitter.com/idoevergreen">
   <img align="left" alt="Evergreen stackoverflow" width="31px" src="https://github.com/evergreen2001/evergreen2001/blob/master/img/stackoverflow.svg" />
-</a>
+  </a>
 
 
 
