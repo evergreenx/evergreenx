@@ -1,5 +1,12 @@
 ### Hello Devs 👋
 
+
+Hi , i'm Evergreen a - creative front-end engineer with 3 years experience leveraging HTML and CSS in building Beautiful, intuitive and responsive website and also maximizing the use of JavaScript in developing highly scale-able, online compatible, fast and user Experience friendly application. 
+
+
+- 📫 How to reach me: ...
+
+
 <!--
 **evergreen2001/evergreen2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,3 +24,4 @@ Here are some ideas to get you started:
 
 - ⚡ You know you’re a programmer…
 – when you spill coffee on your laptop and aggressively press Ctrl+Z to undo the error (true story -_- )
+
