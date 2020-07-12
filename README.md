@@ -8,13 +8,13 @@ Hi , i'm Evergreen :green_heart: a - creative front-end engineer with 3 years ex
 - 📫 How to reach me: ...
 
 
-  <a href="https://twitter.com/idoevergreen">
-  <img align="left" alt="Evergreen Twitter" width="31px" src="https://github.com/evergreen2001/evergreen2001/blob/master/img/linkedein.svg" />
+  <a href="https://www.linkedin.com/in/ido-dickson-evergreen-7b830017a">
+  <img align="left" alt="Evergreen linkedein" width="31px" src="https://github.com/evergreen2001/evergreen2001/blob/master/img/linkedein.svg" />
   </a>
 
 
 
-  <a href="https://www.linkedin.com/in/ido-dickson-evergreen-7b830017a/">
+  <a href="https://twitter.com/idoevergreen">
   <img align="left" alt="Evergreen Twitter" width="31px" src="https://github.com/evergreen2001/evergreen2001/blob/master/img/twitter.svg" />
   </a>
 
