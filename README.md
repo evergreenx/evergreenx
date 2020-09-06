@@ -1,6 +1,6 @@
 ### Hello Extraterrestre :wave:👋,
 
-Hi , i'm Evergreen :green_heart: a - creative front-end engineer with 3 years experience leveraging HTML and CSS in building Beautiful, intuitive and responsive website and also maximizing the use of JavaScript in developing highly scale-able, online compatible, fast and user Experience friendly application. :raised_hands:
+Hi , i'm Evergreen :green_heart: a - creative front-end engineer leveraging HTML and CSS in building Beautiful, intuitive and responsive website and also maximizing the use of JavaScript in developing highly scale-able, online compatible, fast and user Experience friendly application. :raised_hands:
 
 
 - 😄 Pronouns: he/him...
