@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Graphql and Design systems**
 
-- 👨‍💻 All of my projects are available at [https://idoevergreen.tech](https://idoevergreen.tech)
+<!-- - 👨‍💻 All of my projects are available at [https://idoevergreen.tech](https://idoevergreen.tech) -->
 
 - 💬 Ask me about **react , javascript , redux , Css**
 
