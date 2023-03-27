@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Evergreen</h1>
-<h3 align="center"> frontend developer from Lagos</h3>
+<h3 align="center"> software developer from Lagos</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=evergreenx&label=Profile%20views&color=0e75b6&style=flat" alt="evergreenx" /> </p>
 
