@@ -7,7 +7,7 @@
 
 <!-- - 👨‍💻 All of my projects are available at [https://idoevergreen.tech](https://idoevergreen.tech) -->
 
-- 💬 Ask me about **React Native , typescript , redux , Css**
+- 💬 Ask me about **React Native , typescript , Mobx, Jest**
 
 - 📫 How to reach me **dicksonevergreenido@gmail.com**
 
