@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on [bella](https://github.com/evergreenx/bellafoodd)  
   
 
-- 🌱 I’m currently learning Mobx  
+- 🌱 I’m currently learning [Mobx](https://mobx.js.org/README.html)  
 
 - checkout my blog : [https://blog.idoevergreen.xyz/](https://blog.idoevergreen.xyz/)
   
