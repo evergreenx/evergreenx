@@ -1,7 +1,7 @@
 
   
 
-### <div align="center">I'm Evergreen, a software developer </div>  
+### <div align="center">I'm Evergreen, a react native && react dev </div>  
   
 
 - 🔭 I’m currently working on [bella](https://github.com/evergreenx/bellafoodd)  
